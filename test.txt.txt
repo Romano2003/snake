@@ -1,0 +1,13 @@
+Waarvoor staat de afkorting CMS?
+content management system
+Wat is een CMS? (omschrijf in eigen woorden)
+systeem waarin content beheerd kan worden
+Welke CMS’en zijn er? (noem de 3 meest gebruikte/bekende)
+WordPress, TYPO3, Joomla!
+Van welke techniek(en) maakt het Wordpress CMS gebruik? (benoem de ‘tech stack’)
+
+Hoe vaak wordt Wordpress in de praktijk toegepast? (aandeel in %)
+
+Waarom zou je gebruik maken van een CMS? (omschrijf in eigen woorden)
+
+Kun je een nadeel noemen van het gebruik van een CMS? (noem er ten minste 2)
